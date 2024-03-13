@@ -1,0 +1,9 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:////PointingToDeclaration/-ej_-fecha_-m-l/[root]/index.html
+$dokka.location://main/#kotlin.Array[kotlin.String]/PointingToDeclaration/-ej_-fecha_-m-l/[root]/main.html
+$dokka.location:/Fch///PointingToDeclaration/-ej_-fecha_-m-l/[root]/-fch/index.html
+$dokka.location:/Fch/Fch/#kotlin.Int#kotlin.Int#kotlin.Int/PointingToDeclaration/-ej_-fecha_-m-l/[root]/-fch/-fch.html
+$dokka.location:/Fch/valida/#/PointingToDeclaration/-ej_-fecha_-m-l/[root]/-fch/valida.html
+
+
